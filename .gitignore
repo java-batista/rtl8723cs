@@ -96,3 +96,4 @@ signing_key.priv
 signing_key.x509
 x509.genkey
 
+How_to_set_driver_debug_log_level.pdf
